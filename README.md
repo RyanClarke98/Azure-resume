@@ -1,4 +1,4 @@
-# Azure-resume
+# Azure-Resume
 Creating my own Azure Resume
 
 ## Step 1
