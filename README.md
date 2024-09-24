@@ -7,3 +7,4 @@ Creating my own Azure Resume
 - Main.js contains visitor counter code.
 
 ## Step 2
+1234
